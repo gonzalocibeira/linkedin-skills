@@ -1,0 +1,13 @@
+interface:
+  display_name: LinkedIn Visual
+  short_description: Create a post image, looping GIF, or PDF carousel
+  default_prompt: Use $linkedin-visual to create an asset for this LinkedIn post.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

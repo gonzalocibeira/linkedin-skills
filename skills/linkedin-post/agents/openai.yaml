@@ -1,0 +1,13 @@
+interface:
+  display_name: LinkedIn Post
+  short_description: Find a recent story and draft it in your voice
+  default_prompt: Use $linkedin-post to find three angles from my recent conversations.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
