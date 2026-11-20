@@ -1,6 +1,12 @@
+<img src="assets/logo.png" width="80" height="80" alt="">
+
 # LinkedIn Skills
 
 Two agent skills for turning a project, draft, or recent conversation into a LinkedIn post and an accompanying visual. Use them together or on their own.
+
+I’ve made LinkedIn carousels about a Japanese reading extension and a watch strap I designed for 3D printing. One got a PS1-style fox. The other got a diagram of a spring bar, because it turns out a tiny metal pin can be the whole point of a slide.
+
+After trying different openings, trimming drafts, and reworking the visuals, I wanted a way to reuse the parts that worked. That’s why I built these two skills. Start with a detail I can back up. Cut any line I’d never say out loud. Give the visual a reason to be there.
 
 | Skill | What it does |
 | --- | --- |
